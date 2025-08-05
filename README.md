@@ -1,5 +1,6 @@
 # 🍎 Apple Clone
-
+![Dashboard Screenshot](Apple.png)
+### About Project
 A fully responsive **Apple.com homepage clone** built using **React.js** and **Tailwind CSS**, replicating Apple's sleek layout and smooth visual design. The app adapts seamlessly to different screen sizes—optimized for both **mobile** and **desktop** devices.
 
 ---
